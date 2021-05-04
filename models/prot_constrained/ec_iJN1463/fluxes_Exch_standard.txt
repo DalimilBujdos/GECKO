@@ -1,0 +1,39 @@
+EXCHANGE FLUXES:
+DM_5drib_c	(Sink needed to allow 5'-deoxyribose to leave system):	0.00043584
+DM_amob_c	(Sink needed to allow S-Adenosyl-4-methylthio-2-oxobutanoate to leave system):	0.00014528
+EX_co2_e	(CO2 exchange):	20.0879
+EX_h2o_e	(H2O exchange):	37.1654
+EX_h_e	(H+ exchange):	6.3779
+EX_o2_e	(O2 exchange):	19.0055
+SK_pqqA_kt_c	(Sink pqqA kt):	0.00014528
+DM_doxopa_c	(DM doxopa):	0.00014528
+DM_tripeptide_c	(Tripeptide demand):	0.00014528
+EX_ca2_e_REV	(Calcium exchange (reversible)):	0.0027532
+EX_cl_e_REV	(Chloride exchange (reversible)):	0.0027532
+EX_cobalt2_e_REV	(Co2+ exchange (reversible)):	0.0019805
+EX_cu2_e_REV	(Cu2+ exchange (reversible)):	0.0018352
+EX_fe2_e_REV	(Fe2+ exchange (reversible)):	0.0095683
+EX_glc__D_e_REV	(D-Glucose exchange (reversible)):	7.7206
+EX_k_e_REV	(K+ exchange (reversible)):	0.10327
+EX_mg2_e_REV	(Mg exchange (reversible)):	0.004589
+EX_mn2_e_REV	(Mn2+ exchange (reversible)):	0.0018352
+EX_mobd_e_REV	(Molybdate exchange (reversible)):	0.0021258
+EX_na1_e_REV	(Sodium exchange (reversible)):	0.0022945
+EX_nh4_e_REV	(Ammonia exchange (reversible)):	6.9345
+EX_ni2_e_REV	(Ni2+ exchange (reversible)):	0.0018352
+EX_pi_e_REV	(Phosphate exchange (reversible)):	0.59927
+EX_so4_e_REV	(Sulfate exchange (reversible)):	0.12117
+EX_zn2_e_REV	(Zinc exchange (reversible)):	0.0018352
+prot_Q88BW8_exchange	(prot_Q88BW8_exchange):	0.0004266
+prot_Q88BW9_exchange	(prot_Q88BW9_exchange):	0.004266
+prot_Q88BX0_exchange	(prot_Q88BX0_exchange):	0.00085321
+prot_Q88BX1_exchange	(prot_Q88BX1_exchange):	0.0004266
+prot_Q88BX2_exchange	(prot_Q88BX2_exchange):	0.0012798
+prot_Q88BX3_exchange	(prot_Q88BX3_exchange):	0.0004266
+prot_Q88BX4_exchange	(prot_Q88BX4_exchange):	0.0012798
+prot_Q88BX5_exchange	(prot_Q88BX5_exchange):	0.0004266
+prot_Q88CG4_exchange	(prot_Q88CG4_exchange):	0.00018033
+prot_Q88FC3_exchange	(prot_Q88FC3_exchange):	0.00034591
+prot_Q88L15_exchange	(prot_Q88L15_exchange):	0.00010089
+prot_Q88LG1_exchange	(prot_Q88LG1_exchange):	0.00036384
+prot_pool_exchange	(prot_pool_exchange):	0.018151
