@@ -1,0 +1,30 @@
+EXCHANGE FLUXES:
+DM_5drib_c	(Sink needed to allow 5'-deoxyribose to leave system):	0.00054239
+EX_2dhglcn_e	(EX 2dhglcn LPAREN e RPAREN ):	0.13325
+EX_co2_e	(CO2 exchange):	9.8279
+EX_h2o_e	(H2O exchange):	21.4335
+EX_h_e	(H+ exchange):	4.4178
+EX_o2_e	(O2 exchange):	9.2339
+SK_partitioning	(SK_partitioning):	0.047084
+EX_ca2_e_REV	(Calcium exchange (reversible)):	0.0018495
+EX_cl_e_REV	(Chloride exchange (reversible)):	0.0018495
+EX_cobalt2_e_REV	(Co2+ exchange (reversible)):	0.0013305
+EX_cu2_e_REV	(Cu2+ exchange (reversible)):	0.0012329
+EX_fe2_e_REV	(Fe2+ exchange (reversible)):	0.0064279
+EX_glc__D_e_REV	(D-Glucose exchange (reversible)):	4.7089
+EX_k_e_REV	(K+ exchange (reversible)):	0.069372
+EX_mg2_e_REV	(Mg exchange (reversible)):	0.0030829
+EX_mn2_e_REV	(Mn2+ exchange (reversible)):	0.0012329
+EX_mobd_e_REV	(Molybdate exchange (reversible)):	0.0014281
+EX_na1_e_REV	(Sodium exchange (reversible)):	0.0015414
+EX_nh4_e_REV	(Ammonia exchange (reversible)):	4.6585
+EX_ni2_e_REV	(Ni2+ exchange (reversible)):	0.0012329
+EX_pi_e_REV	(Phosphate exchange (reversible)):	0.40258
+EX_so4_e_REV	(Sulfate exchange (reversible)):	0.081401
+EX_zn2_e_REV	(Zinc exchange (reversible)):	0.0012329
+prot_Q88BW9_exchange	(prot_Q88BW9_exchange):	0.0003389
+prot_Q88BX2_exchange	(prot_Q88BX2_exchange):	0.00010167
+prot_Q88BX4_exchange	(prot_Q88BX4_exchange):	0.00010167
+prot_Q88FC3_exchange	(prot_Q88FC3_exchange):	0.0001808
+prot_Q88GX7_exchange	(prot_Q88GX7_exchange):	0.00086474
+prot_pool_exchange	(prot_pool_exchange):	0.026987
